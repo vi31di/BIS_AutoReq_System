@@ -20,9 +20,8 @@ and returns the exact value — along with the full trail it took to get
 there, so the answer can always be checked against the source.
 
 **The core rule the system never breaks: the final number always comes from
-a direct, verified read of the standard itself — never an AI's guess.** AI
-is used only to interpret the question and to read genuinely unstructured
-text; the value itself is always a plain, deterministic lookup, fully
+a direct, verified read of the standard itself — never an AI's guess.** 
+the value itself is always a plain, deterministic lookup, fully
 traceable back to its source clause and table.
 
 The system also tracks which version of each standard is current. If a
